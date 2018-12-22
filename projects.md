@@ -12,7 +12,7 @@ articles:
 
 ---
 
-Project descriptions
+Project descriptions Take II
 
 <!--more-->
 Project descriptions!!!!

@@ -200,6 +200,9 @@ defaults:
       show_edit_on_github: true
       pageview: true
 
+collections:
+  page:
+    output: true
 
 ## => Plugins
 ##############################
