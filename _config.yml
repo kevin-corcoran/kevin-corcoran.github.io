@@ -214,6 +214,7 @@ relative_links:
   collections: true
 include:
   - README.md
+  - test.md
           
 
 theme: jekyll-theme-cayman
