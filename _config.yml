@@ -215,6 +215,8 @@ relative_links:
 include:
   - README.md
   - test.md
+  - projects.md
+
           
 
 theme: jekyll-theme-cayman
