@@ -203,6 +203,8 @@ defaults:
 collections:
   page:
     output: true
+  ching-photos:
+    output: true
 
 ## => Plugins
 ##############################
