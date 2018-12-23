@@ -181,7 +181,6 @@ exclude:
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
-  - /docs
   - /node_modules
   - /screenshots
   - /test
@@ -202,6 +201,8 @@ defaults:
 
 collections:
   page:
+    output: true
+  main_pages:
     output: true
 
 ## => Plugins
