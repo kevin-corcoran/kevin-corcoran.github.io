@@ -202,8 +202,6 @@ defaults:
 collections:
   page:
     output: true
-  main_pages:
-    output: true
 
 ## => Plugins
 ##############################
